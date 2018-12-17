@@ -1,0 +1,199 @@
+<resources>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="app_google_api_key">"AIzaSyAnrr1JXXw6Abpc2isaI3z6p8dbgqR99cQ"</string>
+    <string name="app_tmap_api_key">"4af07278-8a47-4171-b910-69cde5f881f6"</string>
+
+    <string name="notification_channel_id">"notification_ts_channel_id"</string>
+    <string name="notification_channel_name">"notification_ts_channel_name"</string>
+
+
+    <string name="app_name">SeoulCatcher</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ok">"OK"</string>
+    <string name="profile">"Profile"</string>
+    <string name="setting">"Setting"</string>
+    <string name="education">"Education"</string>
+    <string name="educationSchedule">"Schedule"</string>
+    <string name="history">"History"</string>
+    <string name="cancel">"Cancel"</string>
+    <string name="modify">"Modify"</string>
+    <string name="basics">"Basics"</string>
+    <string name="name">"Name"</string>
+    <string name="email">"Email"</string>
+    <string name="phone">"Phone"</string>
+    <string name="start">"Start"</string>
+    <string name="qr">"QR"</string>
+    <string name="certified">"Certified"</string>
+    <string name="account">"Account"</string>
+    <string name="call">"Call"</string>
+    <string name="kind">"Kind"</string>
+    <string name="fire">"Fire"</string>
+    <string name="age">"Age"</string>
+    <string name="children">"Children"</string>
+    <string name="general">"General"</string>
+    <string name="location">"Location"</string>
+    <string name="origin">"Origin"</string>
+    <string name="destination">"Destination"</string>
+    <string name="finish">"Finish"</string>
+    <string name="list">"List"</string>
+    <string name="date">"Date</string>
+
+    <string name="accident_location">"Accident location"</string>
+    <string name="old_age">"Old age"</string>
+    <string name="call_catcher">"Calling the Catcher"</string>
+    <string name="cardiac_arrest">"Cardiac arrest or Emergency Situation"</string>
+    <string name="log_out">"Log out"</string>
+    <string name="member_ship">"MemberShip"</string>
+    <string name="nick_name">"Nick Name"</string>
+    <string name="personal_information">"Personal information"</string>
+    <string name="education_schedule">"Education schedule"</string>
+    <string name="level_text">"Level %s"</string>
+    <string name="edit_image">"Edit Image"</string>
+    <string name="location_settings">"Location Settings"</string>
+    <string name="golden_time">"Golden Time"</string>
+
+    <string name="percent_type">"%"</string>
+
+    <string name="call_user_name">"Call %s"</string>
+
+    <string name="days_after">" days ago"</string>
+    <string name="days_remaining">" days remaining"</string>
+
+    <string name="just_before">"Just before"</string>
+    <string name="minutes_ago">"%s minutes ago"</string>
+    <string name="hours_ago">"%s hours ago"</string>
+    <string name="days_ago">"%s days ago"</string>
+
+    <string name="member_ship_user_level">"%s is\n a member of level %s."</string>
+    <string name="check_qr_code">"Check QR code"</string>
+
+
+    <!--history-->
+    <string name="history_user">"%s has changed his profile."</string>
+    <string name="history_call">"%s called the SeoulCatcher."</string>
+    <string name="history_scheduel">"I applied for education in %s."</string>
+
+
+    <!--hint-->
+    <string name="hint_email">"Please enter a email."</string>
+    <string name="hint_message">"Please enter a content."</string>
+    <string name="hint_phone">"Please enter a phone."</string>
+    <string name="hint_name">"Please enter a name."</string>
+    <string name="hint_title">"Please enter a title."</string>
+    <string name="hint_content">"Please enter a content."</string>
+    <string name="hint_location">"Please select a location."</string>
+
+    <!--guide-->
+    <string name="msg_quit">"Pressing the "back" button ends."</string>
+    <string name="msg_attendance">"Successfully attended. "</string>
+    <string name="msg_call">"Successfully Call. "</string>
+    <string name="msg_logout">"Are you sure you want to log out?"</string>
+    <string name="msg_location_on">"You must set the location for route navigation."</string>
+
+
+    <!--empty-->
+    <string name="empty_title">"Get Started"</string>
+    <string name="empty_profile">"There is no education schedule you have applied for.\nPlease apply for a new education."</string>
+    <string name="empty_history">"There is no history."</string>
+
+
+    <!--error-->
+    <string name="error_permission">"Permissions must be allowed to use."</string>
+    <string name="network_error">"Please check the status of the network."</string>
+    <string name="error_email">"Please enter a valid email."</string>
+    <string name="error_phone">"Please enter a valid phone number."</string>
+    <string name="error_age">"Please select an age."</string>
+
+    <!--education_burn-->
+    <string name="edu_burn_one">"화상부위를 흐르는 찬물 속에 넣어 적어도 10분동안 담그기!"</string>
+    <string name="edu_burn_two">"화상 위의 상처가 부풀어 오르기 전에 반지, 시계, 벨트 등을 조심스레 제거하기"</string>
+    <string name="edu_burn_three">"상처부위는 깨끗하고 가능하면 멸균 처리된 보푸라기가 없는 거즈로 덮기"</string>
+    <string name="edu_burn_four">"물집은 터뜨리지 말고, 화상부위에 딱 붙어 있는 물질들은 떼어내지 맙시다."</string>
+    <string name="edu_burn_five">"환자를 빨리 병원으로 옮겨야 합니다."</string>
+
+    <!--education_cpr-->
+    <string name="edu_cpr_one">"환자의 어깨를 가볍게 두드리며 "괜찮으세요?"라고 여쭤보세요."</string>
+    <string name="edu_cpr_two">"주변사람에게 큰소리로 119에 전화해 달라고 부탁 하고 자동제세동기 요청, 주변에 아무도 없으면 직접 119에 신고합시다."</string>
+    <string name="edu_cpr_three">"분당 최소 100회의 속도로 30회 흉부를 압박합시다. 흉부 압박 때 환자 가슴에서 양손을 떼지 맙시다."</string>
+    <string name="edu_cpr_four">"머리를 뒤로 젖히고 턱을 위로 들어 올려 기도를 열어주세요"</string>
+    <string name="edu_cpr_five">"30회의 가슴압박과 2회의 인공 호흡을 119구급대원이" 도착할 때 까지 반복해서 시행하세요.</string>
+
+    <!--education_usingfire-->
+    <string name="edu_usingfire_one">"먼저 소화기의 안전핀을 뽑아주세요."</string>
+    <string name="edu_usingfire_two">"노즐을 빼고 불 쪽을 향해 서주세요."</string>
+    <string name="edu_usingfire_three">"노즐을 불 쪽으로 들고 위아래 손잡이를 힘껏 눌러주세요."</string>
+    <string name="edu_usingfire_four">"바람을 등지고 골고루 분사해주세요."</string>
+
+    <!--education_usingstif-->
+    <string name="edu_usingstif_one">"지지대 고리에 완강기 고리를 걸고 잠근다."</string>
+    <string name="edu_usingstif_two">"지지대를 창밖으로 밀고 릴(줄)을 던진다."</string>
+    <string name="edu_usingstif_three">"완강기 벨트를 가슴 높이까지 걸고 조인다."</string>
+    <string name="edu_usingstif_four">"벽을 짚으며 안전하게 내려간다."</string>
+
+    <!--education_dust-->
+    <string name="edu_dust_one">"장시간 또는 무리한 실외활동을 줄이세요."</string>
+    <string name="edu_dust_two">"특히, 눈이 아프거나, 기침 또는 목의 통증이 있는 경우 실외활동을 자제하세요."</string>
+    <string name="edu_dust_three">"부득이 외출 시 황사마스크 착용하세요"</string>
+    <string name="edu_dust_four">"교통량이 많은 지역으로의 이동을 자제해 주세요"</string>
+
+    <!--education_coldboom-->
+    <string name="edu_coldboom_one">"손가락, 발가락, 귓바퀴, 코끝 등 신체 말단부위의 감각이 없거나 창백해지는 경우에는 동상을 조심해야 함"</string>
+    <string name="edu_coldboom_two">"동상에 걸렸을 때는 꼭죄는 신발이나 옷을 벗고 따뜻하게 해주며 동상부위를 잘씻고 말려야 함"</string>
+    <string name="edu_coldboom_three">"혈압이 높거나 심장이 약한 사람은 노출부위의 보온에 유의하고 특히 머리부분의 보온에 신경 써야함"</string>
+    <string name="edu_coldboom_four">"급작스런 기온 강하시 심장 및 혈관계통, 호흡기 계통, 신경계통, 피부병 등은 급격히 악화될 우려가 있으므로 유아, 노인 또는 병자가 있는 가정에서는 난방에 유의해야 함"</string>
+
+    <!--education_earthquake-->
+    <string name="edu_earthquake_one">"몸의 안전이 최우선 가장 중요한 것은 생명이다. 지진이 발생하면 즉시 가리고, 엎드리고, 붙잡아 몸을 안전하게 보호한다."</string>
+    <string name="edu_earthquake_two">"비상탈출구 확보 문이 튀틀려 열리지 않을 수 있으므로 재빨리 문을 열어 탈출구를 확보한다."</string>
+    <string name="edu_earthquake_three">"대피할 장소를 사전에 확인 좁은 길, 담 근처로 피신하지 말고, 벽,  문기둥, 자판기 등은 넘어지기 쉬우므로 주의한다."</string>
+    <string name="edu_earthquake_four">"침착하게 행동한다. 당황하여 뛰어 나가지 말고 가능한 한 지진이 끝날 때까지 안에 머무르고 밖으로 피할 때는 유리창, 간판 등 낙하물에 주의한다."</string>
+    <string name="edu_earthquake_five">"서로 도와 구조하고 구호한다. 먼저 가족과 이웃의 안전을 확인한 후 사상자가 발생하므로 노인, 장애인, 어린이 등을 먼저 구조, 구급, 구호한다."</string>
+
+    <!--education_sunnyboom-->
+    <string name="edu_sunnyboom_one">"라디오나 TV의 무더위관련 기상상황에 매일 주목하세요."</string>
+    <string name="edu_sunnyboom_two">"물을 많이 마시되 너무 달거나 카페인이 들어간 음료, 주류 등은 마시지 마세요"</string>
+    <string name="edu_sunnyboom_three">"냉방이 되지 않는 실내의 경우 햇볕이 실내에 들어오지 않도록 하고 맞바람이 불도록 환기를 하고 선풍기를 켜세요"</string>
+    <string name="edu_sunnyboom_four">"창문이 닫힌 자동차 안에 노약자나 어린이를 홀로 남겨두지 마세요"</string>
+    <string name="edu_sunnyboom_five">"기온이 최고에 달하는 12시～오후 4시 사이에는 최소한 2시간은 냉방이 가능한 건물에 머무르세요."</string>
+
+    <!--education_subwayboom-->
+    <string name="edu_subwayboom_one">"승강장 연단부에 갇혔을 때는 당황하지 말고 문을 두드리며 큰 소리로 주변 사람들에게 알려주세요."</string>
+    <string name="edu_subwayboom_two">"최초로 목격하신 승객은 주변 사람들과 합심하여 객실 끝 비상통화 장치를 이용하여 승무원에게 신속하게 알려주세요."</string>
+    <string name="edu_subwayboom_three">"승강장안전문이 열리지 않을 경우 비상레버를 돌려 출입문을 열거나 비상용 망치를 이용하여 유리를 깨고 대피하세요."</string>
+    <string name="edu_subwayboom_four">"승강장안전문이 열리지 않을 경우 주변상황을 고려하여 비상문 쪽으로 이동하여 패닉바를 밀고 신속히 대피하세요."</string>
+
+    <!--education_fireboom-->
+    <string name="edu_fireboom_one">"불을 발견하면 곧바로 '불이야'하고 큰소리로 외쳐 주변에 알리세요"</string>
+    <string name="edu_fireboom_two">"엘리베이터를 이용하지 말고 계단을 이용하세요"</string>
+    <string name="edu_fireboom_three">"아래층으로 대피가 불가능한 때에는 옥상으로 대피합시다."</string>
+    <string name="edu_fireboom_four">"불길 속을 통과할 때에는 물에 적신 담요나 수건 등으로 몸과 얼굴을 감싸주세요."</string>
+    <string name="edu_fireboom_five">"연기가 있으면 최대한 낮은 자세로 대피하세요"</string>
+    <string name="edu_fireboom_six">"화재 발생 시 방문을 열기 전에 문손잡이를 만져보세요"</string>
+
+    <!--education_collapse-->
+    <string name="edu_collapse_one">"건물이 붕괴한 경우에는 당황하지 말고 주변을 살펴서 대피로를 찾으세요."</string>
+    <string name="edu_collapse_two">"엘리베이터 홀, 계단실 등과 같이 견디는 힘이 강한 벽체가 있는 안전한 곳으로 임시 대피합시다."</string>
+    <string name="edu_collapse_three">"노약자, 어린이, 여성 등을 우선하여 탈출하세요."</string>
+    <string name="edu_collapse_four">"고립이 장기화될 경우를 고려해 음식과 물을 찾아 먹되, 오래 버틸 수 있도록 소비를 조절하세요"</string>
+    <string name="edu_collapse_five">"가스누출 위험이 있을 경우 성냥, 스토브 등을 켜지않고 손전등을 사용하세요"</string>
+
+    <!--education_oneonenine-->
+    <string name="edu_oneonenine_one">"소방서(119)에 전화를 걸어 화재를 신고한다."</string>
+    <string name="edu_oneonenine_two">"소방대원이 먼저 전화를 끊을 때까지 전화를 끊지 않는다."</string>
+    <string name="edu_oneonenine_three">"낯선거리에서 119로 신고할 땐 가까운 상가 전화번호를 알려준다."</string>
+    <string name="edu_oneonenine_four">"고속도로에서는 시점 기준 현재 위치를 알려준다."</string>
+    <string name="edu_oneonenine_five">"장난전화를 절대 하지 않는다."</string>
+
+    <!--education_carboom-->
+    <string name="edu_carboom_one">"다른 차의 소통에 방해되지 않도록 길 가장자리나 공터 등 안전한 장소에 차를 정차시키고 엔진을 끈다."</string>
+    <string name="edu_carboom_two">"사고현장에 의사, 구급차 등이 도착할 때까지 부상자에게는 가제나 깨끗한 손수건으로 우선 지혈시키는 등 가능한 응급 조치를 한다."</string>
+    <string name="edu_carboom_three">"후속 사고의 우려가 있을 때는 부상자를 안전한 장소로 이동시킨다."</string>
+    <string name="edu_carboom_four">"경찰이 주변에 없을 때 에는 가장 가까운 경찰관서에 신고하여 지시를 받는다."</string>
+    <string name="edu_carboom_five">"가벼운 상처나 외상이 없어도 두부 등에 강한 충격을 받았을 때에는 의사의 진단을 받아 나중에 후유증이 생겼을 때 피해를 보지 않는다."</string>
+
+</resources>

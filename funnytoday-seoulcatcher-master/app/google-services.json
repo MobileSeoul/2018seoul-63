@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "631096911539",
+    "firebase_url": "https://funnytoday-seoulcatcher.firebaseio.com",
+    "project_id": "funnytoday-seoulcatcher",
+    "storage_bucket": "funnytoday-seoulcatcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631096911539:android:6cbea42f76220de0",
+        "android_client_info": {
+          "package_name": "todday.funny.seoulcatcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631096911539-nsu93lh4er8l508j3sg64ri1ndktmfmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "todday.funny.seoulcatcher",
+            "certificate_hash": "e3d5954a84ded3d57e6a121c7f044853f7f4841e"
+          }
+        },
+        {
+          "client_id": "631096911539-tp3ko74h50agti2mvie918r1artb38pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "todday.funny.seoulcatcher",
+            "certificate_hash": "d4483baef384d149f5b33f9071b28e2039d77000"
+          }
+        },
+        {
+          "client_id": "631096911539-v3qdmhk8esjj0u9p936kuhtp65kfpq1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "todday.funny.seoulcatcher",
+            "certificate_hash": "c82f698f14248810ea7f9298a9de1556e5c0a1e8"
+          }
+        },
+        {
+          "client_id": "631096911539-8qvg1ivts9lbkg1nqldrj63ae2kpdc6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "todday.funny.seoulcatcher",
+            "certificate_hash": "e7c11e3b2c778c8f2eb483f4b03bd04c8cc516d8"
+          }
+        },
+        {
+          "client_id": "631096911539-3vi8i8nht2cnrtagmppru8r7033vnlop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "todday.funny.seoulcatcher",
+            "certificate_hash": "0d4d32bb901ba2ccce95fe5a41aa2afe6c9ce687"
+          }
+        },
+        {
+          "client_id": "631096911539-q6pjsksj3i3thc3ecedtfe161bvslgqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnrr1JXXw6Abpc2isaI3z6p8dbgqR99cQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631096911539-q6pjsksj3i3thc3ecedtfe161bvslgqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
